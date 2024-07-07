@@ -43,13 +43,15 @@ li {
 /* heder */
 
 .heder-page {
-    border-bottom: 1px solid #e7e9fc
+        color: #2e2f42;
+        display: flex;
+        padding: 24px 156px;
+        border-bottom: 1px solid #e7e9fc;
         
 }
 
 .header-container {
-    display: flex;
-    align-items: center;
+    justify-content: space-between;
     
 }
 
